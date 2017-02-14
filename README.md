@@ -1,4 +1,4 @@
-# Informa-es
+# GCM-IMPACTA
 
 Usuario: LucasCogo
 Lucas da Mota Corrêa Cogo
